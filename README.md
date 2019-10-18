@@ -1,12 +1,3 @@
-# MEU PRIMEIRO REPOSITÓRIO
+# Repositório com Exercícios do Módulo de Programação do NEO
 
-aprendendo 
-
-## Sub 
-
-### sub sub 
-
-aushuahsa
-jsaijsia 
-kkkk
-novas seção, novo comentario
+Dentro de cada pasta é possível ver a descrição do exercício e a minha solução em python
